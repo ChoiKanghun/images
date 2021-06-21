@@ -1,6 +1,7 @@
 {
 "friends": [
 {
+  "id": 1,
 "title": "kchoi",
 "subtitle": "this is subtitle",
 "latitude": 37.488588,
@@ -8,6 +9,7 @@
 "imageUrl": "https://www.dmarge.com/wp-content/uploads/2021/01/dwayne-the-rock-.jpg"
 },
 {
+  "id": 2,
 "title": "nakim",
 "subtitle": "this is subtitle",
 "latitude": 37.487703,
